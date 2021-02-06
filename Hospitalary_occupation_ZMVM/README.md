@@ -1,6 +1,6 @@
 # Ocupación hospitalaria in ZMVM/ Hospitalary occupation in ZMVM
 
-Última actualización/Last update: 2021-02-04T20:53:25-06:00
+Última actualización/Last update: 2021-02-05T20:57:17-06:00
 
 Ocupación hospitalaria en la Zona Metropolitana del Valle de México (ZMVM). [Link](https://datos.cdmx.gob.mx/explore/dataset/personas-hospitalizadas-en-hospitales-de-zmvm/table/?sort=fecha)
 
