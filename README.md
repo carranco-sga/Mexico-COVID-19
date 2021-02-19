@@ -1,8 +1,16 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2021-02-17T22:39:30-06:00
+Última actualización/Last update: 2021-02-18T21:26:58-06:00
 
 ## Nota importantes / Important notes
+
+2021-02-18: A partir del 2021-02-18 no es posible subir el archivo de datos abiertos federal comprimido en forma completa por el tamaño del mismo (mayor a 100 MB, el límite de GitHub).
+Para continuar archivando las bases de datos, se divide el archivo usando ``split`` y se archiva junto con la suma de verificación (sha256sum) del archivo original.
+Para reconstruir la base de datos comprimida a partir de los archivos ``fecha.zippart.xx`` basta con utilizar ``cat fecha.zippart.* > fecha.zip``.
+
+2021-02-18: From 2021-02-18 it is not possible to archive the complete federal open data compressed database because its size exceeds GitHub's maximum file size. (100 MB.)
+To continue archiving the databases, the original file is divided using ``split``and uploaded with the original file's checksum (sha256sum).
+To rebuild the compressed database from the files ``date.zippart.xx``, you can use ``cat date.zippart.* > date.zip``.
 
 2021-01-19: A partir del 2021-01-08 la tabla usada por el Gobierno de la Ciudad de México para reportar la ocupación hospitalaria dejó de actualizarse debido a que no contenía la lista completa de los hospitales de la Ciudad de México. [Link](https://datos.cdmx.gob.mx/explore/dataset/personas-hospitalizadas-covid19/information/?sort=-camas_intubados_cdmx)
 Esta tabla es reemplazada por la tabla reportada [aquí](https://datos.cdmx.gob.mx/explore/dataset/personas-hospitalizadas-en-hospitales-de-zmvm/table/?sort=fecha).
