@@ -28,3 +28,4 @@
 | 2021-02-22 | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-264383) |
 | 2021-02-23 | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-264384) |
 | 2021-02-24 | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-264385) |
+| 2021-02-25 | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-264386) |
