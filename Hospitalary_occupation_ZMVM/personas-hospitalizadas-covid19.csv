@@ -1,4 +1,4 @@
-fecha,año,mes,dia,hospitalizados_totales,hospitalizados_totales_cdmx,hospitalizados_totales_edomex,camas_intubados_totales,camas_intubados_cdmx,camas_intubados_edomex,camas_generales_totales,camas_generales_cdmx,camas_generales_edomex
+fecha,ano,mes,dia,hospitalizados_totales,hospitalizados_totales_cdmx,hospitalizados_totales_edomex,camas_intubados_totales,camas_intubados_cdmx,camas_intubados_edomex,camas_generales_totales,camas_generales_cdmx,camas_generales_edomex
 2020-03-24,2020,marzo,24,50,50,0,39,39,0,11,11,0
 2020-03-25,2020,marzo,25,105,105,0,33,33,0,72,72,0
 2020-03-26,2020,marzo,26,128,128,0,42,42,0,86,86,0
@@ -337,3 +337,4 @@ fecha,año,mes,dia,hospitalizados_totales,hospitalizados_totales_cdmx,hospitaliz
 2021-02-22,2021,febrero,22,6362,4759,1603,1691,1408,283,4671,3351,1320
 2021-02-23,2021,febrero,23,6288,4688,1600,1699,1408,291,4589,3280,1309
 2021-02-24,2021,febrero,24,6244,4645,1599,1677,1372,305,4567,3273,1294
+2021-02-25,2021,febrero,25,6195,4593,1602,1660,1361,299,4535,3232,1303
