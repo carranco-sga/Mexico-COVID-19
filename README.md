@@ -1,8 +1,16 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2021-03-11T20:17:59-06:00
+Última actualización/Last update: 2021-03-12T20:40:49-06:00
 
 ## Nota importantes / Important notes
+
+2021-03-12: La discrepancia en el número (en uno, 193850 vs. 193851) de defunciones totales confirmadas de la tabla resumen respecto a los datos reportados por el CTD y el tablero de CONACyT se deben a que existe un paciente caso confirmado de COVID-19 (`ID: 28e389`) en la base de datos de hoy cuya fecha de defunción se reporta como `2021-09-28`.
+Las demás variables del paciente parecen sugerir que la fecha de defunción correcta es `2020-09-28`.
+Para preservar la integridad de los datos durante su tratamiento y reporte, se publica la cifra que no contempla este caso (193850) para el día de hoy.
+
+2021-03-12: The difference between the number (in one, 193850 vs. 193851) of total confirmed deaths of the briefing table relative to the data reported by the CTD and the CONACyT dashboard is due to the date of death of a confirmed patient of COVID-19 (`ID: 28e389`) being reported as `2021-09-28`.
+The other variables of the patient suggest the correct date of death being `2020-09-28`.
+To preserve the integrity of the way the data is handled and reported, the number published is the one that doesn't consider this case for today (193580).
 
 2021-02-18: A partir del 2021-02-18 no es posible subir el archivo de datos abiertos federal comprimido en forma completa por el tamaño del mismo (mayor a 100 MB, el límite de GitHub).
 Para continuar archivando las bases de datos, se divide el archivo usando ``split`` y se archiva junto con la suma de verificación (sha256sum) del archivo original.
