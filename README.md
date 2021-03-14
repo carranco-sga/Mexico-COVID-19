@@ -1,8 +1,14 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2021-03-12T20:40:49-06:00
+Última actualización/Last update: 2021-03-13T20:10:51-06:00
 
 ## Nota importantes / Important notes
+
+2021-03-13: El registro anómalo del paciente `ID: 28e389` se mantiene en la base de datos.
+Esto explica la diferencia en uno en el número de defunciones totales confirmadas reportadas aquí.
+
+2021-03-13: The anomalous patient entry `ID: 28e389` is still in the database.
+This explains the difference (of one) in the number of confirmed total deaths reported here.
 
 2021-03-12: La discrepancia en el número (en uno, 193850 vs. 193851) de defunciones totales confirmadas de la tabla resumen respecto a los datos reportados por el CTD y el tablero de CONACyT se deben a que existe un paciente caso confirmado de COVID-19 (`ID: 28e389`) en la base de datos de hoy cuya fecha de defunción se reporta como `2021-09-28`.
 Las demás variables del paciente parecen sugerir que la fecha de defunción correcta es `2020-09-28`.
