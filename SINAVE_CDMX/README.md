@@ -1,6 +1,6 @@
 # Extracto de la base de datos SINAVE de la CDMX/Extract of the SINAVE database from CDMX.
 
-Última actualización/Last update: 2021-03-25T20:25:16-06:00
+Última actualización/Last update: 2021-03-26T20:14:55-06:00
 
 Fragmento correspondiente a la CDMX de la base de datos SINAVE (la base de datos de dónde se extraen los datos abiertos federales) que contiene algunos campos adicionales. [Link](https://datos.cdmx.gob.mx/explore/dataset/base-covid-sinave/information/?location=10,19.32072,-99.15261)
 *Gracias a Luis G. Canales por el enlace.*
