@@ -1,4 +1,4 @@
 # Informes Epidemiológicos de la situación de COVID-19 en México
-Última actualización/Last update: 2021-05-06 T 20:42:00-05:00
+Última actualización/Last update: 2021-05-12 T 20:25:00-05:00
 
  [Fuente](https://www.gob.mx/salud/documentos/informes-epidemiologicos-de-la-situacion-de-covid-19-en-mexico)
