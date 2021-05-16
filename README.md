@@ -1,8 +1,12 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2021-05-14T20:37:58-05:00
+Última actualización/Last update: 2021-05-15T20:42:30-05:00
 
 ## Nota importantes / Important notes
+
+2021-05-15: Se reportan cuatro defunciones más (en Puebla) en los datos abiertos respecto al CTD.
+
+2021-05-15: There are four more deaths reported (in Puebla) in the open database compared to those reported by the CTD.
 
 2021-03-15: El registro anómalo del paciente `ID: 28e389` se ha modificado en la base oficial.
 La fecha de defunción reportada es el "2020-09-28", como se esperaba.
