@@ -23,3 +23,4 @@
 | 2021-05-17 | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-272210) |
 | 2021-05-18 | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-272211) |
 | 2021-05-19 | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-272212) |
+| 2021-05-20 | [Link](https://www.gob.mx/salud/prensa/nuevo-coronavirus-en-el-mundo-covid-19-comunicado-tecnico-diario-272215) |
