@@ -1,8 +1,14 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2021-05-27T20:23:38-05:00
+Última actualización/Last update: 2021-05-28T21:00:44-05:00
 
 ## Nota importantes / Important notes
+
+2021-05-28: Se siguen reportando cuatro defunciones más en los datos abiertos respecto al CTD.
+Éste número concuerda con el mostado en el [tablero](https://datos.covid-19.conacyt.mx/) de CONACyT.
+
+2021-05-28: There are still four more deaths reported in the open database compared to those reported by the CTD.
+This number agrees with the one reported in CONACyT's [dashboard](https://datos.covid-19.conacyt.mx/).
 
 2021-05-27: Se reportan cuatro defunciones más (en Jalisco) en los datos abiertos respecto al CTD.
 El número nacional reportado concuerda con el mostrado en el [tablero](https://datos.covid-19.conacyt.mx/) de CONACyT.
