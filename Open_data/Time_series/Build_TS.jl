@@ -109,7 +109,7 @@ function información_fecha(datos, fecha)
 end
 
 #Definamos una función que itere sobre las fechas y genere la tabla resumen:
-function tabla_resumen(datos, fecha_análisis, fecha_máxima = fecha_análisis, fecha_mínima = Date("2020-01-01"))
+function tabla_resumen(datos, fecha_análisis; fecha_máxima = fecha_análisis, fecha_mínima = Date("2020-01-01"))
 
     #Construyamos el header del .csv:
     #Definamos las abreviaturas de las entidades en orden: claves 1, 2, 3,... 32.
@@ -153,5 +153,6 @@ fecha_análisis = today()
 #Los datos se encuentran en formato .csv al interior del archivo .zip:
 datos_zip = ZipFile.Reader(Dates.format(fecha_análisis, "yyyymm")*"/"*Dates.format(fecha_análisis, "yyyymmdd")*".zip")
 datos = CSV.read(datos_zip.files[1], header = 1, types = Dict(:FECHA_DEF => String), DataFrame)
+sort!(datos, [:FECHA_INGRESO, :ENTIDAD_UM, :CLASIFICACION_FINAL, :FECHA_DEF, :TIPO_PACIENTE, :UCI, :INTUBADO])
 
 tabla_resumen(datos, fecha_análisis)
