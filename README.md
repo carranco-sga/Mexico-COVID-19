@@ -1,8 +1,14 @@
 # Base de datos de casos de COVID-19 reportados en México / Database of reported cases of COVID-19 in Mexico.
 
-Última actualización/Last update: 2021-06-14T21:55:25-05:00
+Última actualización/Last update: 2021-06-15T23:35:52-05:00
 
 ## Nota importantes / Important notes
+
+2021-06-15: Los datos abiertos reportan cuatro defunciones más (una en Guanajuato, una en Nuevo León y dos en el estado de México) que las defunciones reportadas en el CTD.
+El número total de defunciones concuerda con el mostado en el [tablero](https://datos.covid-19.conacyt.mx/) de CONACyT.
+
+2021-06-15: The open data reports four deaths more (one in Guanajuato, one in Nuevo León and two in Mexico state) than those reported by the CTD.
+The total number agrees with that shown in CONACyT's [dashboard](https://datos.covid-19.conacyt.mx/).
 
 2021-06-14: Se siguen reportando dos defunciones más en los datos abiertos respecto al CTD.
 Éste número concuerda con el mostrado en el [tablero](https://datos.covid-19.conacyt.mx/) de CONACyT.
