@@ -152,7 +152,7 @@ fecha_análisis = today()
 
 #Los datos se encuentran en formato .csv al interior del archivo .zip:
 datos_zip = ZipFile.Reader(Dates.format(fecha_análisis, "yyyymm")*"/"*Dates.format(fecha_análisis, "yyyymmdd")*".zip")
-datos = CSV.read(datos_zip.files[1], header = 1, types = Dict(:FECHA_DEF => String), DataFrame)
+datos = CSV.read(datos_zip.files[1], header = 1, types = Dict(:FECHA_DEF => String), DataFrame)[: , [:FECHA_INGRESO, :ENTIDAD_UM, :CLASIFICACION_FINAL, :FECHA_DEF, :TIPO_PACIENTE, :UCI, :INTUBADO]]
 sort!(datos, [:FECHA_INGRESO, :ENTIDAD_UM, :CLASIFICACION_FINAL, :FECHA_DEF, :TIPO_PACIENTE, :UCI, :INTUBADO])
 
 tabla_resumen(datos, fecha_análisis)
